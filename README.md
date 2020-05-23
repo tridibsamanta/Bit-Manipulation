@@ -1,2 +1,4 @@
 # Bit-Manipulation
-Let's enjoy some bitwise hacks.
+
+
+Let's enjoy some bitwise hacks :fire:
